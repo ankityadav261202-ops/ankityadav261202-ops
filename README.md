@@ -21,6 +21,9 @@
     alt="Ankit Yadav - Full Stack Developer"
   />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=36BCF7&lines=Full+Stack+JavaScript+Developer;MERN+Stack+Specialist;Frontend+Architecture+%26+UI+Engineering" />
+</p>
 
 
 
