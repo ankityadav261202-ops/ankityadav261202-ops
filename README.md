@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Ankit%20Yadav%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Ankit%20Yadav&fontSize=38&fontAlignY=40&color=0:141E30,100:243B55" />
+</p>
+
 
 <!-- ✨ Animated Typing Tagline -->
 <p align="center">
