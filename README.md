@@ -12,6 +12,9 @@
 ---
 
 ## 👨‍💻 About Me
+GitHub: ankityadav123
+LinkedIn: https://www.linkedin.com/in/ankit-yadav
+Email: ankityadav@gmail.com
 
 - 💻 Full Stack Developer skilled in **Python, Java, and MERN Stack**
 - 🌱 Passionate about building **scalable & modern web applications**
