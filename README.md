@@ -5,6 +5,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Ankit%20Yadav&fontSize=38&fontAlignY=40&color=0:141E30,100:243B55" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Ankit%20Yadav&fontSize=38&fontAlignY=40&color=0:141E30,100:243B55" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Hello%20World%2C%20I’m%20Ankit%20Yadav&fontSize=36&color=0:000428,100:004e92&animation=twinkling" />
+</p>
+
 
 
 <!-- ✨ Animated Typing Tagline -->
