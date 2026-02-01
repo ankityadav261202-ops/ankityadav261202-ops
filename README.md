@@ -2,31 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Ankit%20Yadav%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Ankit%20Yadav&fontSize=38&fontAlignY=40&color=0:141E30,100:243B55" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Ankit%20Yadav&fontSize=38&fontAlignY=40&color=0:141E30,100:243B55" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Hello%20World%2C%20I’m%20Ankit%20Yadav&fontSize=36&color=0:000428,100:004e92&animation=twinkling" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Ankit%20Yadav&fontSize=34&fontColor=000000" />
-</p>
-<!-- 🌟 Matched Animated Header -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ankit%20Yadav&fontSize=42&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20JavaScript%20Developer%20%7C%20MERN%20Stack&descAlign=50&descAlignY=60&color=0:141E30,100:243B55&animation=fadeIn"
-    alt="Ankit Yadav - Full Stack Developer"
-  />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=36BCF7&lines=Full+Stack+JavaScript+Developer;MERN+Stack+Specialist;Frontend+Architecture+%26+UI+Engineering" />
-</p>
-
-
-
 <!-- ✨ Animated Typing Tagline -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&center=true&vCenter=true&width=700&height=60&color=FF6B6B%2CFFD93D%2C6BCB77%2C4D96FF&lines=Full+Stack+Developer+%26+Engineer+%F0%9F%92%BB;Building+Design+Systems+%26+Beautiful+Interfaces+%E2%9C%A8;Lifelong+Learner+%26+Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
