@@ -14,6 +14,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Ankit%20Yadav&fontSize=34&fontColor=000000" />
 </p>
+<!-- 🌟 Matched Animated Header -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ankit%20Yadav&fontSize=42&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20JavaScript%20Developer%20%7C%20MERN%20Stack&descAlign=50&descAlignY=60&color=0:141E30,100:243B55&animation=fadeIn"
+    alt="Ankit Yadav - Full Stack Developer"
+  />
+</p>
 
 
 
