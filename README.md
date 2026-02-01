@@ -11,6 +11,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Hello%20World%2C%20I’m%20Ankit%20Yadav&fontSize=36&color=0:000428,100:004e92&animation=twinkling" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Ankit%20Yadav&fontSize=34&fontColor=000000" />
+</p>
 
 
 
